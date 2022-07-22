@@ -1,0 +1,6 @@
+{
+    "python.analysis.extraPaths": [
+        "C:\\Python39\\Lib\\site-packages"
+    ],
+    "python.globalModuleInstallation": true
+}
